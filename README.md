@@ -1,3 +1,5 @@
 # Turtle-python 
 
-This repo will my turtle code.
+Status: ongoing. 
+
+
