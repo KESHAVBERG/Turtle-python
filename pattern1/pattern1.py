@@ -8,3 +8,5 @@ for i in range(101):
         tur.right(120+b)
 
         
+tur.hideturtle()
+
